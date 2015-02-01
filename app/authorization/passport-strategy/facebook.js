@@ -2,9 +2,6 @@ var User = require('../models/UserModel.js');
 var FacebookStrategy = require('passport-facebook').Strategy;
 var passportConfig = require('../../../config/passportConfig.js');
 exports.facebookStrategy = new FacebookStrategy({
-		/*clientID: '335292056659819',
-		clientSecret: '17bb6a288eb826993d26146ebf0413d1',
-		callbackURL: 'http://192.168.0.13:3000/auth/facebook/callback',*/
 		clientID: passportConfig.facebook.clientID,
 		clientSecret: passportConfig.facebook.clientSecret,
 		callbackURL: 'http://'+passportConfig.projectRoot+'/auth/facebook/callback',
