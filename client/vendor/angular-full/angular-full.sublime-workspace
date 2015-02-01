@@ -1,0 +1,1180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"le",
+				"length"
+			],
+			[
+				"tiu",
+				"tituloEncontrado"
+			],
+			[
+				"titu",
+				"tituloEncontrado"
+			],
+			[
+				"href",
+				"hrefIndex"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"proto",
+				"protocolLib"
+			],
+			[
+				"chun",
+				"chunkRecibido"
+			],
+			[
+				"tag",
+				"tagGroup"
+			],
+			[
+				"run",
+				"runSequence"
+			],
+			[
+				"precio",
+				"preciodb  (variable)"
+			],
+			[
+				"pre",
+				"precios_prods  (variable)"
+			],
+			[
+				"est",
+				"filtro_estado"
+			],
+			[
+				"filtro",
+				"filtro_estado"
+			],
+			[
+				"filr",
+				"filtro_estado"
+			],
+			[
+				"e",
+				"evento"
+			],
+			[
+				"n",
+				"no_more"
+			],
+			[
+				"total",
+				"totalRecords"
+			],
+			[
+				"mo",
+				"modalFechaDuplicarSesiones"
+			],
+			[
+				"E",
+				"EventoSesionesCtrl"
+			],
+			[
+				"User",
+				"Users"
+			],
+			[
+				"La",
+				"Languages"
+			],
+			[
+				"$rout",
+				"$routeParams	AngularJS"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"proc",
+				"procedencia_parametro"
+			],
+			[
+				"pro",
+				"procedencia_parametro"
+			],
+			[
+				"numero",
+				"numeroCodigos"
+			],
+			[
+				"v",
+				"va	vertical-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"$root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"error",
+				"errorGuardar"
+			],
+			[
+				"elimina",
+				"eliminar"
+			],
+			[
+				"camb",
+				"cambioRecinto"
+			],
+			[
+				"r",
+				"recinto_id"
+			],
+			[
+				"seleccion",
+				"seleccionarRecinto"
+			],
+			[
+				"fec",
+				"fechaFinal"
+			],
+			[
+				"fecha",
+				"fechaApertura"
+			],
+			[
+				"aforo",
+				"aforoMaximoRecinto	(?)"
+			],
+			[
+				"recinto_c",
+				"recinto_custom_id"
+			],
+			[
+				"alert",
+				"alertServices"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"s",
+				"sesionId	(?)"
+			],
+			[
+				"getNombre",
+				"getNombreRecintocustom	(?)"
+			],
+			[
+				"rec",
+				"recintoCustoms	(?)"
+			],
+			[
+				"Recinto",
+				"Recintocustoms"
+			],
+			[
+				"esta",
+				"estado_activo	(?)"
+			],
+			[
+				"Recintos",
+				"Recintoscustom"
+			],
+			[
+				"recint",
+				"recintocustomId	(?)"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"Mi",
+				"MiEntidadUsuariosCtrl"
+			],
+			[
+				"carg",
+				"cargarGeneros(id_genero)"
+			],
+			[
+				"M",
+				"MiEntidadIdiomas"
+			],
+			[
+				"image",
+				"imagenTicketpub"
+			],
+			[
+				"imagen",
+				"imagenTicket"
+			],
+			[
+				"m",
+				"MiEntidadImagenes"
+			],
+			[
+				"tipo",
+				"tipoValido"
+			],
+			[
+				"afiliados",
+				"afiliadosAgregar	[]"
+			],
+			[
+				"Canal",
+				"CanalFormapagosCtrl"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"canal",
+				"canalId	(?)"
+			],
+			[
+				"an",
+				"anchorScroll"
+			],
+			[
+				"cargara",
+				"cargarFormatosTicket()"
+			],
+			[
+				"cargar",
+				"cargarTemporadas()"
+			],
+			[
+				"form",
+				"formatosTicket	(?)"
+			],
+			[
+				"forma",
+				"formatoTicket_id"
+			],
+			[
+				"Sea",
+				"Season"
+			],
+			[
+				"ro",
+				"routeParams"
+			],
+			[
+				"el",
+				"eliminado"
+			],
+			[
+				"err",
+				"errorGuardar"
+			],
+			[
+				"parse",
+				"parseInt(string, radix?)"
+			],
+			[
+				"get",
+				"getData"
+			],
+			[
+				"g",
+				"getTime"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 1656,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower.json",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 5,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: initias-console"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/josep-initias/desarrollo/pro/angular-full/bower.json",
+		"/Users/josep-initias/desarrollo/pro/links-manager/npm-debug.log",
+		"/Users/josep-initias/desarrollo/pro/links-manager/server/sockets.js",
+		"/Users/josep-initias/desarrollo/pro/links-manager/server/server.js",
+		"/Users/josep-initias/desarrollo/pro/links-manager/app/js/services/socket.js",
+		"/Users/josep-initias/desarrollo/pro/links-manager/public/js/services/socket.js",
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/User/angular.module.sublime-snippet",
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/User/initias-console.sublime-snippet",
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/User/angular.directive.sublime-snippet",
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/User/angular.factory.sublime-snippet",
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/User/angular.controller.sublime-snippet",
+		"/Users/josep-initias/desarrollo/pro/links-manager/routes/index.js",
+		"/Users/josep-initias/desarrollo/pro/links-manager/views/layout.jade",
+		"/Users/josep-initias/desarrollo/pro/links-manager/views/index.jade",
+		"/Users/josep-initias/desarrollo/pro/links-manager/src/js/services/socket.js",
+		"/Users/josep-initias/desarrollo/pro/links-manager/views/test.jade",
+		"/Users/josep-initias/desarrollo/pro/links-manager/.foreverignore",
+		"/Users/josep-initias/desarrollo/pro/links-manager/package.json",
+		"/Users/josep-initias/desarrollo/pro/links-manager/sockets.js",
+		"/Users/josep-initias/desarrollo/pro/links-manager/app.js",
+		"/Users/josep-initias/desarrollo/pro/links-manager/node_modules/gulp/node_modules/gulp-util/lib/isNull.js",
+		"/Users/josep-initias/desarrollo/pro/links-manager/gulpfile.js",
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/modelo/acceso.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/mod_control.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/mixture.json",
+		"/Users/josep-initias/Dropbox/www/td0.9/no subir/js/modulos/mod_pedidos_cuenta_cliente_0_0.js",
+		"/Users/josep-initias/Dropbox/www/td0.9/no subir/js/modulos/mod_confirmacion_pedido_0_0.js",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/servicios/peticiones.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/vista/vendor/mod.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/vista/tienda/mod.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/director.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/caja.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/no subir/sql/del_imgs_cat.sql",
+		"/Users/josep-initias/Dropbox/www/td0.9/no subir/less/libs/bootstrap/component-animations.less",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/modelo/api_acceso.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/api_control.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/lits/litp_contactar_es.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/lits/litp_contactar_ca.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/no subir/js/paginas/vendor.mix.js",
+		"/Users/josep-initias/Dropbox/www/td0.9/no subir/js/modulos/mod_vendor_lista_productos.js",
+		"/Users/josep-initias/Dropbox/www/td0.9/no subir/js/modulos/mod_vendor_grafico_ventas.js",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/vista/vendor/paginas/vendor.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/controladores/VendorController.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/td0.9.sublime-project",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/controladores/AdminController.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/lits/litp_pedido_es.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/controladores/DispoController.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/lits/litp_pedido_ca.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/privado/control/utils/Router.php",
+		"/Users/josep-initias/Dropbox/www/td0.9/index.php",
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/eventoCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/pages/main.jsp",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/app.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/dashboardCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/resources/js/libs/angular/i18n/angular-locale_pl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/pages/login.jsp",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/login.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/initias-ng-kit.sublime-project",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/providers/sesiones.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/providers/mientidadIdiomas.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/eventos/evento_sesion_duplicar_modal.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/eventos/evento_sesiones.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/eventoSesionesCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/eventoSesionDuplicarModalCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/eventoSesionTarifaCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/eventos/evento_sesion.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/eventoSesionCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/organizadores/organizadorAltaModalCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/eventos/evento_sesion_tarifa.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/mientidad/miEntidadIdiomasAddModalCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/mientidad/miEntidadIdiomasCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/assets/translates/textos_es.json",
+		"/usr/local/tomcat control/webapps/ct2-control/src/assets/translates/textos_ca.json",
+		"/usr/local/tomcat control/webapps/ct2-control/src/assets/translates/textos_en.json",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/evento_sesion_duplicar_modal.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/mientidad/mientidad_usuarios.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/mientidad/miEntidadUsuarioCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/mientidad/mientidad_usuario.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/mientidad/mientidad_textos.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/mientidad/mientidad_imagenes.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/mientidad/mientidad_idiomas.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/mientidad/mientidad.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/mientidad/miEntidadUsuariosCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/mientidad/miEntidadImagenesCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/mientidad/miEntidadTextosCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/mientidad/miEntidadCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/mientidad/mientidad_overview.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/eventoSesionTarifasCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/providers/rangoSesiones.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/eventos/evento_sesion_tarifas.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/eventos/evento_sesion_overview.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/app.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/modulos/_tabla_sesiones.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/eventoSesionOverviewCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/modulos/_tabla_ciclos.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/modulos/_tabla_eventos.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/modulos/_tabla_recintocustoms.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/modulos/_tabla_tarifas.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/promociones/promocion.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/modulos/_tabla_temporadas.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/promociones/promocionCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/promociones/promociones.html",
+		"/usr/local/tomcat control/webapps/ct2-control/resources/partials/promociones/promociones.html",
+		"/usr/local/tomcat control/webapps/ct2-control/resources/partials/promociones/promocion.html",
+		"/usr/local/tomcat control/webapps/ct2-control/node_modules/gulp-usemin/node_modules/glob/test/pause-resume.js",
+		"/usr/local/tomcat control/webapps/ct2-control/package.json",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/providers/clubs.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/promociones/promocionesCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/providers/tiposPromocion.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/eventos/eventosCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/eventos/eventos.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/providers/promociones.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/modulos/_tabla_promociones.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/organizadores/organizador.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/recintos/recintos.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/recintos/recintosCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/recintos/recinto.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/recintos/recinto_importar_modal.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/recintos/recintoImportarModalCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/recintos/recinto_alta_modal.html",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/recintos/recintoAltaModalCtrl.js",
+		"/usr/local/tomcat control/webapps/ct2-control/src/styles/app/modulos/_tabla_recintos.scss",
+		"/usr/local/tomcat control/webapps/ct2-control/src/scripts/app/controllers/recintos/recintoCtrl.js",
+		"/Users/josep-initias/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/usr/local/tomcat control/webapps/ct2-control/src/partials/eventos/evento.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"socket",
+			"src",
+			"factory",
+			"res",
+			"precio",
+			"session",
+			"$carrito",
+			"echo",
+			"activo",
+			"j_username",
+			"rangosesion",
+			"crm",
+			"sesion",
+			"Dominio",
+			"Sesión",
+			"sesión",
+			"sesion",
+			"CLUB",
+			"sesion.fechaFinal",
+			"ff",
+			"codigo_cupon",
+			"CUPON",
+			"Afiliados",
+			"multi_codigos",
+			"dominio",
+			"nombre",
+			"fechaInicial",
+			"form_sesion",
+			"numeroUsos",
+			"numeroCodigos",
+			"codigo_cupon",
+			"direccion",
+			"recinto",
+			"recintoId",
+			"eventos",
+			"TiposFormapagos",
+			"Canal",
+			"canal",
+			"formapago",
+			"Canales",
+			"Afiliados",
+			"nif",
+			"form_organizador",
+			"nombre",
+			"codigo",
+			"Alta",
+			"nombre",
+			"alta",
+			"AltaOrganizador",
+			"recintoExistente",
+			"modo_edicion",
+			"aforo",
+			"Aforo",
+			"Sesión",
+			"sesión",
+			"organizador",
+			"Organizadores",
+			"nif",
+			"organizador",
+			"Temporada",
+			"temporada",
+			"Temporada",
+			"temporada",
+			"Temporada",
+			"inicioSesion",
+			"fechaFinal",
+			"inicioSesion",
+			"aforoMax",
+			"form_evento",
+			"nombre",
+			"form_evento",
+			"Final",
+			"ff",
+			"form_recinto",
+			"titulo",
+			"form_recinto",
+			"titulo",
+			"titulo'",
+			"recinto",
+			"eventos",
+			"evento",
+			"imagenes.url",
+			"evento",
+			"MiEntidad",
+			"mientidad.urlImagenes",
+			"mientidad.imagenes",
+			"form_mientidad",
+			"MiEntidad",
+			"mientidad",
+			"form_mientidad_textos",
+			"recinto",
+			"recintocustom",
+			"Recintocustom",
+			"recintocustom",
+			"form_recintocustom",
+			"recintocustoms",
+			"Recintocustoms",
+			"recintocustom",
+			"recinto",
+			"form_recinto",
+			"temporadas",
+			"recinto",
+			"email",
+			"apellidos",
+			"aforoMaximo",
+			"organizador",
+			"recinto",
+			"recintoId",
+			"recinto",
+			"temporadas",
+			"Temporadas",
+			"Idiomas",
+			"temporada",
+			"temporadas",
+			"idiomas",
+			"Idiomas",
+			"idiomas",
+			"Idiomas",
+			"idiomas",
+			"Idiomas",
+			"idiomas",
+			"Idiomas",
+			"idiomas",
+			"Idiomas",
+			"idiomas",
+			"Idiomas",
+			"idiomas",
+			"Idiomas"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1193,
+								1193
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Markdown/MultiMarkdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bower.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5,
+								5
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"open_with_edit": true,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "angular-full.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"views/index.jade"
+			],
+			[
+				"dire",
+				"privado/director.php"
+			],
+			[
+				"caja",
+				"privado/control/caja.php"
+			],
+			[
+				"app",
+				"src/scripts/app/app.js"
+			],
+			[
+				"main",
+				"src/pages/main.jsp"
+			],
+			[
+				"promo",
+				"src/partials/promociones/promociones.html"
+			],
+			[
+				"ma",
+				"src/pages/main.jsp"
+			],
+			[
+				"srcapp",
+				"src/scripts/app/app.js"
+			],
+			[
+				"srcorg",
+				"src/scripts/app/controllers/organizadorCtrl.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/desarrollo/pro/links-manager/links-manager.sublime-project"
+			],
+			[
+				"g",
+				"~/Documents/sublime-projects/guias.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

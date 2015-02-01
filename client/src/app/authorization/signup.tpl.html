@@ -1,0 +1,38 @@
+<h4>Sign up into To Do Application</h4>
+
+<form  class="form-horizontal meetupCreateForm"  name="singupForm">
+       <span class="label label-danger" ng-if="errorExists" >{{loginErrorMessage}}</span>
+        <div class="form-group" show-errors>
+            <label>Email</label>
+            <input type="email" class="form-control" name="email" ng-model="email" id="email" required >
+            <p class="help-block" ng-if="singupForm.email.$error.required">
+               Please enter your email.
+             </p>
+            <p class="help-block" ng-show="singupForm.email.$error.email">
+               Please enter valid email.
+             </p>
+        </div>
+         <div class="form-group" show-errors>
+            <label>Password</label>
+            <input type="password" class="form-control" name="password" ng-model="password" id="password" required>
+            <p class="help-block" ng-if="singupForm.password.$error.required">
+               Please enter a password.
+             </p>
+         </div>
+        <div class="form-group" show-errors>
+            <label>Confirm Password</label>
+            <input type="password" class="form-control" name="confirmPassword"   ng-model="confirmPassword" id="confirmPassword" required 
+            data-match="password">
+            <p class="help-block" ng-if="singupForm.confirmPassword.$error.required">
+               Please confirm your password.
+            </p>
+            <p class="help-block" ng-if="singupForm.confirmPassword.$error.match">
+               Passwords do not match.
+            </p>
+        </div>
+        <button type="submit"  id="signupButton" class="btn btn-warning btn-lg" ng-click="signup()">Signup</button>
+         <a href="/#/signup/" ng-click="reset()">Reset</a>
+</form>
+
+
+

@@ -1,0 +1,20 @@
+.meetupCreateForm{
+    width: 300px;
+    margin-left: 20px;
+}
+
+.meetup-time{
+    width: 80px;
+}
+
+.meetup-time-container{
+    margin-left: 20px;
+}
+
+.form-group .help-block {
+  display: none;
+}
+
+.form-group.has-error .help-block {
+  display: block;
+}

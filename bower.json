@@ -1,0 +1,22 @@
+{
+  "name": "mean-todo-app",
+  "version": "0.0.0",
+  "authors": [
+    "narendrasoni1989 <narendrasoni2@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    ],
+    "dependencies": {
+	"jquery" : "2.1.1",
+        "angular-full": "1.3.0",
+        "angular-ui-router" : "0.2.13",
+	"flat-ui" : "2.2.2",
+        "jquery-ui":"1.10.4",
+	"moment": "2.4.0",
+        "angular-moment":"0.8.3",
+	"angular-http-auth": "1.2.1",
+	"bootstrap-social":"*"
+    }
+}
