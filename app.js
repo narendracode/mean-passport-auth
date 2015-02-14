@@ -9,7 +9,9 @@ var config = require('./config/config');
 var mongoose = require("mongoose");
 var passport = require('passport');
 var flash = require("connect-flash");
-//var xsrf = require('./app/utils/xsrf');
+var RedisStore = require('connect-redis')(session)
+
+
 var app = express();
 
 
@@ -23,7 +25,16 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser("mean-to-do-app-secret"));
-app.use(session({secret : "mean-to-do-app-secret", resave : true, saveUninitialized : true}));
+app.use(session({
+	secret : "mean-to-do-app-secret",
+	resave : true,
+	saveUninitialized : true,
+	store: new RedisStore({
+		//url: 'redis://192.168.0.13'
+		host: config.redisHost,
+		port: config.redisPort
+		})
+	}));
 
 require('./app/authorization/passport')(passport); //settting up passport config
 

@@ -1,15 +1,15 @@
 var passport = require('passport');
 
 exports.facebookLogin = function(req,res,next){
-	passport.authenticate('facebook-login',{scope:'email'})(req,res,next);
+  passport.authenticate('facebook-login',{scope:'email'})(req,res,next);
 }
 
 exports.facebookLoginCallback = function(req,res,next){
-	passport.authenticate('facebook-login',
-	{
-		successRedirect:'/',
-		failureRedirect:'/login'
-	})(req,res,next);
+  passport.authenticate('facebook-login',
+  {
+    successRedirect:'/',
+    failureRedirect:'/login'
+  })(req,res,next);
 }
 
 exports.localSignup =   function(req, res, next){    
@@ -35,10 +35,11 @@ exports.localLogin = function(req, res, next){
 
 exports.logout = function(req, res) {
   if(req.user) {
+     req.session.destroy();
     req.logout();
-    res.json({'status':200,'message':'User successfully logged out.'});
+    res.json({'status':200,'message':'User successfully logged out.','role':'none'});
   } else {
-    res.json({'status':404,'message':'No user found.'});
+    res.json({'status':404,'message':'No user found.','role':'none'});
   }
 };
 
@@ -60,7 +61,7 @@ exports.getCurentUserInfo = function(req, res) {
     if(req.user){
          res.json(req.user);
     }else{
-        res.json({'status':404,'message':'no user found'});
+        res.json({'status':404,'message':'no user found','role':'none'});
     }
  
 };

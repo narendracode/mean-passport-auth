@@ -1,1 +1,13 @@
 <h3>Welcome to home page of Angular To Do Application..</h3>
+
+<div ng-show="currentUser">
+   only for currnt user.. 
+   <div ng-show='hasAccess("user")'>
+        only for role user.. 
+     </div>
+      <div ng-show='hasAccess("admin")'>
+        only for role admin.. 
+     </div>
+
+
+</div>

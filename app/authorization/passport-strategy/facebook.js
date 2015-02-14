@@ -46,6 +46,7 @@ exports.facebookStrategy = new FacebookStrategy({
 				}else{
 					var newUser = new User();
 					newUser.facebook.id = profile.id;
+                                        newUser.role = 'user';
 					newUser.facebook.name = profile.displayName;
 					newUser.facebook.token = profile.token;
 					newUser.facebook.email = profile.emails[0].value;

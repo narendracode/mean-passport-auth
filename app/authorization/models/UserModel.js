@@ -25,8 +25,16 @@ var userSchema = mongoose.Schema({
         email        : String,
         name         : String
     }
-
 });
+
+userSchema.plugin(require('mongoose-role'), {
+        roles: ['user', 'admin'],
+        accessLevels: {
+                'admin': ['user', 'admin'],
+                'user': ['user']
+        }
+});
+
 
 userSchema.virtual('password')
 .set(function(password) {
@@ -44,10 +52,10 @@ var validatePresenceOf = function (value) {
 // methods ======================
 userSchema.methods = {
   generateHash: function(password) {
-	  return bcrypt.hashSync(password, bcrypt.genSaltSync(8), null);
+    return bcrypt.hashSync(password, bcrypt.genSaltSync(8), null);
   },
   validPassword: function(password) {
-	  return bcrypt.compareSync(password, this.local.password);
+    return bcrypt.compareSync(password, this.local.password);
   },
   authenticate: function (plainText) {
     return this.encryptPassword(plainText) === this.local.password;

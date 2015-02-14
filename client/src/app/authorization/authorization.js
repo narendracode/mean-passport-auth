@@ -20,30 +20,28 @@ function($stateProvider,$urlRouterProvider){
 ]);
 
 
-
-angular.module('authorization').controller('AuthController',['$scope','$resource','$state','$location','AuthService','$window',
-    function($scope,$resource,$state,$location,AuthService,$window){
+angular.module('authorization').controller('AuthController',['$scope','$resource','$state','$location','AuthService','$window','$rootScope',
+    function($scope,$resource,$state,$location,AuthService,$window,$rootScope){
         var AuthSignupResource = $resource('/auth/signup');   
         var AuthLoginResource = $resource('/auth/login'); 
 
-
-	$scope.loginOauth = function(provider) {
-		$window.location.href = '/auth/' + provider;
-	};
+  $scope.loginOauth = function(provider) {
+    $window.location.href = '/auth/' + provider;
+  };
 
         $scope.errorExists = false;
            $scope.signup = function(){
                 $scope.$broadcast('show-errors-check-validity'); 
                 if ($scope.singupForm.$valid){
                   AuthService.signup({email:$scope.email,password:$scope.password},function(result){
-		    	if(result['message']){
+          if(result['message']){
                             $scope.errorExists = true;
                             $scope.loginErrorMessage = result['message'];
                         }else{
-			    $location.path('/')	
-			}
+          $location.path('/') 
+      }
 
-		    });
+        });
                 }   
           }//signup
         
@@ -52,9 +50,9 @@ angular.module('authorization').controller('AuthController',['$scope','$resource
              $scope.$broadcast('show-errors-check-validity'); 
              if ($scope.loginForm.$valid){
                  AuthService.login({
-			            'email':$scope.email,
-				    'password':$scope.password
-				   },function(result){
+                  'email':$scope.email,
+            'password':$scope.password
+           },function(result){
                     if(result['message']){
                         $scope.errorExists = true;
                         $scope.loginErrorMessage = result['message'];
@@ -65,12 +63,12 @@ angular.module('authorization').controller('AuthController',['$scope','$resource
              }
         }//login
 
-	$scope.logout = function(){
-		AuthService.logout(function(result){
-			if(result['status'] == 200){
-				$location.path('/login/');
-			}	
-		});
-	}
+  $scope.logout = function(){
+    AuthService.logout(function(result){
+      if(result['status'] == 200){
+        $location.path('/login/');
+      } 
+    });
+  }
     }
 ]);
